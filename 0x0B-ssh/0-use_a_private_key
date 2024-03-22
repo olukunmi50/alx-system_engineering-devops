@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Connecting to a server using ssh and key stored in ~ssh/alx
+
+ssh -i ~/.ssh/school ubuntu@54.144.136.137
