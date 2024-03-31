@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Bash script that uses ssh to connect to server 
+# key ~/.ssh/school with the user ubuntu
+ssh ubuntu@100.25.193.110 -i ~/.ssh/id_rsa
